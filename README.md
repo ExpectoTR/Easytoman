@@ -6,7 +6,7 @@ This program helps you to create password and manipulate.
 
 # Algorithm
 
-The main encryption algorithm in module called "encode".The reason it compiled, algorithm must be hidden. :\)
+The main encryption algorithm in module called "encode".This algorithm is so complex :)
 
 # About Easytoman ?
 
